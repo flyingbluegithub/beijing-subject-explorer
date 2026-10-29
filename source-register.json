@@ -1,0 +1,236 @@
+[
+  {
+    "id": "bj-mode",
+    "title": "北京普通高中学业水平考试实施办法",
+    "org": "北京市教委 · 京教计〔2024〕43号",
+    "url": "https://www.beijing.gov.cn/zhengce/gfxwj/202412/t20241203_3955799.html",
+    "note": "等级考六门任选三门；合格考与等级考分开。正文已读；本机下载被403拦截。",
+    "status": "已实读",
+    "date": "2024-09-20"
+  },
+  {
+    "id": "grading",
+    "title": "北京等级性考试成绩折算办法",
+    "org": "北京市教委 · 京教计〔2018〕21号",
+    "url": "https://jw.beijing.gov.cn/xxgk/zxxxgk/201808/t20180823_1446930.html",
+    "note": "五等21级、40至100分、每级3分。2027报名问答仍援引；不把校内名次换算为北京高考赋分。",
+    "status": "已实读",
+    "date": "2018-08-22"
+  },
+  {
+    "id": "bj-rules",
+    "title": "普通高校本科专业选考科目要求（2027版）",
+    "org": "北京教育考试院",
+    "url": "https://www.bjeea.cn/uploads/soft/261021/普通高校本科专业选考科目要求（2027版）.pdf",
+    "note": "原件731页。26条四校样本逐条核验，PDF第2、8、9、11、12、13页。未将全量机器抽取直接上线。",
+    "status": "已归档并抽样目视核验",
+    "date": "入口更新2026-10-23"
+  },
+  {
+    "id": "bj-plan",
+    "title": "北京市2026年招生专业目录",
+    "org": "北京教育考试院",
+    "url": "https://www.bjeea.cn/uploads/soft/260622/北京市2026年普通高等学校招生专业目录.pdf",
+    "note": "原件121页扫描PDF；样本对照官方查询及PDF第30、31、32、41页。历史计划不推定2030招生。",
+    "status": "已归档并抽样目视核验",
+    "date": "2026招生年度"
+  },
+  {
+    "id": "bj-plan-query",
+    "title": "2026在京招生计划官方查询",
+    "org": "北京教育考试院",
+    "url": "https://query.bjeea.cn/queryService/rest/plan/115",
+    "note": "四校154条历史计划已留存。仅26条与2027版单独关联；同名不代表培养轨道或专业组延续。",
+    "status": "已读取四校计划",
+    "date": "2026招生年度"
+  },
+  {
+    "id": "bj-registration",
+    "title": "2027高考报名通知",
+    "org": "北京教育考试院",
+    "url": "https://www.bjeea.cn/html/gkgz/tzgg/2026/1015/88419.html",
+    "note": "报名资格、户籍及限定报考范围应按届时政策审核；2027报名通知不作为2030资格承诺。",
+    "status": "已实读并归档",
+    "date": "2026-10-19"
+  },
+  {
+    "id": "bj-admission",
+    "title": "2026北京市普通高校招生工作规定",
+    "org": "北京教育考试院",
+    "url": "https://www.bjeea.cn/html/gkgz/tzgg/2026/0505/88114.html",
+    "note": "考试、志愿、录取及章程管理规则。仅用于理解现行机制，2030待核验。",
+    "status": "已实读并归档",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "ustb-charter",
+    "title": "北京科技大学2026本科招生章程",
+    "org": "北京科技大学本科招生网",
+    "url": "https://zhaosheng.ustb.edu.cn/zkxx/zszc/7e8f87879a044647ad42440cf9d10f0b.htm",
+    "note": "全文及附件已读。涉及色觉限制、外国语言文学类英语要求、部分专业分年在北京与雄安培养。",
+    "status": "已实读并归档",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "btbu-charter",
+    "title": "北京工商大学2026本科招生章程",
+    "org": "北京工商大学本科招生网",
+    "url": "https://zsb.btbu.edu.cn/zszc/zszc/289bcacb496c4940ad60b3b7fa99d230.htm",
+    "note": "网页正文已读，本机原件下载TLS失败。涉及外语口试、培养校区、合作项目与体检；不可只读“无单科要求”。",
+    "status": "已实读／原件待补存",
+    "date": "页面2026-06-05；落款2026-04-15"
+  },
+  {
+    "id": "bupt-charter",
+    "title": "北京邮电大学2026章程官方发布入口",
+    "org": "北京邮电大学新闻网",
+    "url": "https://news.bupt.edu.cn/tzgg.htm",
+    "note": "找到2026-05-29发布项，正文访问412。本轮未完成官方正文实读，不能视作全部附加条件已核验。",
+    "status": "待补正文",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "ruc-charter",
+    "title": "中国人民大学2026章程官方转载入口",
+    "org": "中国人民大学深圳研究院",
+    "url": "https://sz.ruc.edu.cn/sylbt/4945a809eca54050a48dda4ad7d46b18.htm",
+    "note": "官方页面正文抓取超时；检索到2026章程，尚未实读官方全文，不把转载摘要当完整条件。",
+    "status": "待补正文",
+    "date": "2026招生年度"
+  },
+  {
+    "id": "onet",
+    "title": "职业兴趣工具技术手册",
+    "org": "O*NET Resource Center",
+    "url": "https://www.onetcenter.org/reports/IP_Manual.html",
+    "note": "RIASEC与测评开发技术参考。自编中文探索题不能继承该工具的信效度或常模。",
+    "status": "已实读并归档",
+    "date": "2021-03"
+  },
+  {
+    "id": "onet-license",
+    "title": "职业探索工具内容许可",
+    "org": "O*NET Resource Center",
+    "url": "https://www.onetcenter.org/license_tools.html",
+    "note": "复制与改编许可分别处理。本版没有复制或翻译其题库，商业接入需按实际使用方式核对条款。",
+    "status": "已实读并归档",
+    "date": "核验2026-10-28"
+  },
+  {
+    "id": "mbti",
+    "title": "测评授权与版权说明",
+    "org": "The Myers-Briggs Company",
+    "url": "https://www.themyersbriggs.com/en-US/Support/Copyright-and-Permissions",
+    "note": "测评材料、改编与翻译需相应许可；本版偏好题不是正式MBTI，不参与专业资格和排名。",
+    "status": "已实读并归档",
+    "date": "核验2026-10-28"
+  },
+  {
+    "id": "learning-0",
+    "title": "计算机科学与技术培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/jsjl_zyjs/fe2d63e31c4b4c058d59f5359c0b1b5f.htm",
+    "note": "数据结构、操作系统、数据库、算法与系统课程。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-1",
+    "title": "物联网工程培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/jsjl_zyjs/16ee5fdf018c4252961ecb824d811ab1.htm",
+    "note": "嵌入式系统、网络、人工智能与感知设备的交叉学习。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-2",
+    "title": "信息安全培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/jsjl_zyjs/4ce482a2c7c04c0b9b482069b3d06e3a.htm",
+    "note": "数学与密码、系统与网络安全、工程实践。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-3",
+    "title": "通信工程培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/txgc_zyjs/e2131ea4dc01483d9c4667a1ab2d949c.htm",
+    "note": "信号、电路、通信原理与网络。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-4",
+    "title": "人工智能培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/rgzn/f286e602c6ec471ebec822ee8950f16a.htm",
+    "note": "算法、模式识别、机器学习与机器人实践。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-5",
+    "title": "材料科学与工程培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/clkxygc_zyjs/f80c8b6dea534a34b985792848b4e54b.htm",
+    "note": "材料基础、合成制备、物理与数据方法。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-6",
+    "title": "工商管理（工商+智能双学士学位）培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/gsgll_zyjs/59627cdabea74301b7e2ae407c8538b5.htm",
+    "note": "管理、经济、编程、统计与商业实践结合。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-7",
+    "title": "会计学培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/gsgll_zyjs/ec1dd3b6fdf14928a3e3e0e676762ae8.htm",
+    "note": "财务会计、审计、税法及财务数据工具。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-8",
+    "title": "大数据管理与应用培养内容",
+    "org": "北京科技大学",
+    "url": "https://zhaosheng.ustb.edu.cn/xkzy/zyjs/glkxygcl_zyjs/7913db398e814dd3b83d60881706d44c.htm",
+    "note": "商务分析、编程、统计、机器学习与数据治理。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-9",
+    "title": "经济学（实验班）培养内容",
+    "org": "对外经济贸易大学",
+    "url": "https://soe.uibe.edu.cn/docs/2026-03/8c6f8acc292245d08ec3c8866da32334.pdf",
+    "note": "数理经济、宏微观经济、计量与博弈论。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-10",
+    "title": "数字经济培养内容",
+    "org": "对外经济贸易大学",
+    "url": "https://soe.uibe.edu.cn/docs/2026-03/0ed3836d257b4b2fb8120ee98dd93fab.pdf",
+    "note": "经济、数学、编程、机器学习与数字市场。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  },
+  {
+    "id": "learning-11",
+    "title": "法学培养内容",
+    "org": "首都经济贸易大学",
+    "url": "https://law.cueb.edu.cn/docs/2024-10/8936a25b064c47e9b1e15400f9bc8e6e.pdf",
+    "note": "法学理论、部门法、诉讼与实务伦理。学习参考，不是招生要求。",
+    "status": "已实读",
+    "date": "核验于2026-10-28"
+  }
+]
